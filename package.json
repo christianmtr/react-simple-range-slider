@@ -1,0 +1,37 @@
+{
+  "name": "react-simple-range-slider",
+  "version": "1.0.0",
+  "description": "A very simple range slider react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianmtr/react-simple-range-slider.git"
+  },
+  "author": "Christian M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianmtr/react-simple-range-slider/issues"
+  },
+  "homepage": "https://github.com/christianmtr/react-simple-range-slider#readme",
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "resize-observer-polyfill": "^1.4.2"
+  },
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "7.4.0",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

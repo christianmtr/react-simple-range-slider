@@ -1,6 +1,6 @@
 {
   "name": "react-simple-range-slider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very simple range slider react component",
   "main": "index.js",
   "scripts": {

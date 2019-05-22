@@ -709,7 +709,7 @@ module.exports = function (e) {
             g = this.coordinates(_),
             w = d({}, b, "".concat(g.fill, "px")),
             E = d({}, m, "".concat(g.handle, "px")),
-            O = s && v || c && v,
+            O = s && v || c,
             x = [],
             M = Object.keys(l);
 
